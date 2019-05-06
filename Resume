@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<title>Brandon Sahr's Resume</title>
+</head>
+<body>
+<h1><center><strong>Brandon Sahr</strong></center></h1>
+<hr>
+
+<h4>
+<p><center>9 Loeffler Lane</center></p>
+<p><center>Medfield, MA 02052</center></p>
+<p><center>(508) 850-6589</center></p>
+<p><center>btsahr2021@email.medfield.net</center></p>
+<p><center>D.O.B. 1/17/03</center></p>
+</h4>
+<br>
+
+<h2>Education</h2>
+<p>September 2017 - Present</p>
+<p><strong>Medfield High School</strong></p>
+<ul>
+<li>GPA 3.85 (unweighted)</li>
+<li>Representative courses taken: Honors Biology, Honors Geometry, Honors Physics, Honors Algebra II, Honors US History I, Engineering I, Intro to Computer Science</li>
+</ul>
+<br>
+
+<h2>Work Experience</h2>
+<p>September 2016 - May 2018</p>
+<p><strong>Sunday School for Jewish Studies, Newton, MA - </strong><em>Teaching Assistant</em></p>
+<ul>
+<li>Assisted in classroom management and instruction for first grade Hebrew school class</li>
+<li>Supervisor: Dori Stern</li>
+</ul>
+<br>
+
+<h2>Volunteer Experience</h2>
+<p>Spring 2016 - Summer 2016</p>
+<p><strong>Dedham Recreational Swim Facility and Medfield Hinkley Pond - </strong> <em>Instrucor Assistant</em></p>
+<ul>
+<li>Part time swim instructor assistant for Red Cross Levels 1 and 2</li>
+<li>Supervisor: Karen O'Connel</li>
+</ul>
+<br>
+
+<h2>Certifications</h2>
+<ul>
+<li>American Red Cross Lifeguard certification</li>
+<li>American Red Cross First Aid/CPR/AED certification</li>
+</ul>
+
+<img src = "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwimks3e24biAhVrS98KHcofDQMQjRx6BAgBEAU&url=https%3A%2F%2Fwww.youtube.com%2Fuser%2FAmRedCross&psig=AOvVaw1lRC9Iam-Bifw6l5PAcyFs&ust=1557225647704172" alt = "Red Cross Logo"/>
+<br>
+
+<h2>Activities</h2>
+<ul>
+<li>High School Athletics: Varisty swim team, varsity cross country, and varsity track and field</li>
+<li>Recreational and Club Swim Teams: Medfield Marlins, Wellesley Swimming Associaton, Crimson USA, and Dedham Clippers</li>
+</ul>
+
+<img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.swimswam.com%2Fwp-content%2Fuploads%2F2018%2F02%2Fstock-by-Mike-Lewis-LDM_1946.jpg&imgrefurl=https%3A%2F%2Fswimswam.com%2Fswim-england-introduces-5-new-national-performance-centers%2F&docid=8xaOahgqhFHgBM&tbnid=5oyqQHZLUjhpvM%3A&vet=10ahUKEwji2seJ3IbiAhUFd98KHbYIDmYQMwhtKAkwCQ..i&w=3240&h=2160&safe=active&bih=578&biw=1280&q=swimming&ved=0ahUKEwji2seJ3IbiAhUFd98KHbYIDmYQMwhtKAkwCQ&iact=mrc&uact=8" alt = "Swimming Pool"/>
+<br>
+
+<h2>Additional Strengths</h2>
+<ul>
+<li>Strong work ethic</li>
+<li>Well organized</li>
+<li>Physically fit</li>
+<li>Able to code in Javascript and HTML</li>
+</ul>
+<br>
+
+<h2>Awards</h2>
+<ol>
+<li>Mandarin Excellence Award (8th grade)</li>
+<li>Wellesley Swimming Coaches Award (9th grade)</li>
+</ol>
+
+</html>
+
